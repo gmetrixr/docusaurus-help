@@ -59,6 +59,7 @@ Links on Headers of all help websites:
 > https://docusaurus.io/docs/next/installation#scaffold-project-website
 
 ```
+sd
 npx @docusaurus/init@latest init gmetri-help classic
 cd gmetri-help
 rm -rf yarn.lock node_modules
