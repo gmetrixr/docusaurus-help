@@ -11,6 +11,9 @@ services:
       - "8001:8001" #Format: HOST:CONTAINER
     volumes:
       - .:/src
+      #Allow running host to run git commands:
+      - ~/.ssh:/home/node/.ssh:ro
+      - ~/.gitconfig:/home/node/.gitconfig:ro
     environment:
       - IS_LOCAL=true
       - BUILD_VERSION=localversion

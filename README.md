@@ -8,7 +8,9 @@ cd gmetri-help
 p i
 p start #to start watch mode
 p build #to build website
-p deploy #to deploy website
+#To Deploy:
+export GIT_USER=<your github user>
+p deploy
 ```
 
 Docusaurus's preset-class plugin exposes three types of pages:
