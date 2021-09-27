@@ -1,9 +1,9 @@
 version: "3"
 
 services:
-  docusaurus-help:
+  help:
     image: "gmetrixr/baseimage:node-16-dev-v1"
-    container_name: gmetri_docusaurus-help
+    container_name: gmetri_help
     command: ["tail", "-f", "/dev/null"]
     working_dir: /src
     user: node

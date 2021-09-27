@@ -23,18 +23,18 @@ For GMetri, we want the following structure:
 
 1. Help Center - Help home, starting point. Contains summary of all help related links.
    * URL: www.gmetri.com/help
-   * Content: `docusaurus-help/gmetri-help/src/pages/___`
+   * Content: `help/gmetri-help/src/pages/___`
    * In case we need changelogs in the website, it can be a sub-blog at
       * Content: www.gmetri.com/help/changelog
-      * Content: `docusaurus-help/gmetri-help/blog/___`
+      * Content: `help/gmetri-help/blog/___`
 
 2. Docs (Features/Reference)
    * URL: www.gmetri.com/docs
-   * Content: `docusaurus-docs/gmetri-docs/src/docs/___`
+   * Content: `docs/gmetri-docs/src/docs/___`
 
 3. XR Academy - Journeys, user focused. Catgorized by user's knowledge, industry.
    * URL: www.gmetri.com/xracademy
-   * Content: `docusaurus-xracademy/gmetrixr-xracademy/src/docs/___`
+   * Content: `xracademy/gmetrixr-xracademy/src/docs/___`
 
 4. API Docs
    * URL: www.gmetri.com/api
@@ -68,5 +68,5 @@ rm -rf yarn.lock node_modules
 p i
 ```
 
-* Add following to start script in gmetri-help/package.json: `docusaurus start -p 8001 -h 0.0.0.0`
+* Add following to start script in `help/package.json`: `docusaurus start -p 8001 -h 0.0.0.0`
 
