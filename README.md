@@ -1,6 +1,6 @@
 # docusaurus-help
 
-[![Build Status](https://drone-xr.gmetri.io/api/badges/gmetrixr/docs/status.svg)](https://drone-xr.gmetri.io/gmetrixr/docs)
+[![Build Status](https://drone-xr.gmetri.io/api/badges/gmetrixr/help/status.svg)](https://drone-xr.gmetri.io/gmetrixr/help)
 
 ## After Checking out project
 
