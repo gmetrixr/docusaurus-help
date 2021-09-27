@@ -1,5 +1,7 @@
 # docusaurus-help
 
+[![Build Status](https://drone-xr.gmetri.io/api/badges/gmetrixr/docs/status.svg)](https://drone-xr.gmetri.io/gmetrixr/docs)
+
 ## After Checking out project
 
 ```bash
