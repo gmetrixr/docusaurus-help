@@ -17,10 +17,10 @@ steps:
     - mkdir -p $HOME/.ssh
     - echo "Host github.com\n\tHostname ssh.github.com\n\tPort 443" >> $HOME/.ssh/config
     - cat $HOME/.ssh/config
-    - |
-      /bin/sh -c 'OUT=$(ssh-keyscan -t rsa github.com)
-        echo $OUT'
-    - ssh-keyscan -t rsa ssh.github.com >> $HOME/.ssh/known_hosts
+    # - |
+    #   /bin/sh -c 'OUT=$(ssh-keyscan -t rsa github.com)
+    #     echo $OUT'
+    # - ssh-keyscan -t rsa ssh.github.com >> $HOME/.ssh/known_hosts
     - echo "$GITHUB_PRIVATE_KEY > $HOME/.ssh/id_rsa"
     - chmod 0600 $HOME/.ssh/id_rsa
   #Actual deploy related commands
