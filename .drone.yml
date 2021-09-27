@@ -12,8 +12,8 @@ steps:
   image: gmetrixr/baseimage:node-16-dev-v1
   commands:
     - cd gmetri-help
-    - p i
-    - p deploy
+    - pnpm install
+    - pnpm deploy
   environment:
     USE_SSH: true
     GIT_USER: $DRONE_COMMIT_AUTHOR
