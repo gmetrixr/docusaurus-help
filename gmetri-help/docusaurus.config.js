@@ -46,6 +46,11 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      gtag: {
+        trackingID: 'GTM-P3STB99',
+        // Optional fields.
+        anonymizeIP: true, // Should IPs be anonymized?
+      },
       navbar: {
         title: 'GMetri Help Center',
         logo: {
