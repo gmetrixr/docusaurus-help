@@ -13,9 +13,10 @@ steps:
   commands:
   #Actual deploy related commands
     - sudo chown -R node .
-  #Setup git access for git clone to work
+  #Setup git access for git clone to work ($HOME is /home/node)
     - mkdir -p $HOME/.ssh
-    - echo $HOME
+    - ssh-keyscan -t rsa github.com
+    - ls $HOME/.ssh/
     - ssh-keyscan -t rsa github.com >> $HOME/.ssh/known_hosts
     - echo "$GITHUB_PRIVATE_KEY > $HOME/.ssh/id_rsa"
     - chmod 0600 $HOME/.ssh/id_rsa
