@@ -16,7 +16,9 @@ steps:
   #Setup git access for git clone to work ($HOME is /home/node)
     - mkdir -p $HOME/.ssh
     - ping github.com
-    - OUT=$(ssh-keyscan -t rsa github.com); echo $OUT
+    - |
+      /bin/sh -c 'OUT=$(ssh-keyscan -t rsa github.com)
+        echo $OUT'
     - ls $HOME/.ssh/
     - ssh-keyscan -t rsa github.com >> $HOME/.ssh/known_hosts
     - echo "$GITHUB_PRIVATE_KEY > $HOME/.ssh/id_rsa"
