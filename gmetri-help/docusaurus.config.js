@@ -8,16 +8,15 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   tagline: 'Building no-code intelligent XR',
   //This is necessary to be able to host this page at https://www.gmetri.com/help
   //This should generally be without the /help part acc. to docusaurs docs. https://docusaurus.io/docs/next/docusaurus.config.js#url
-  //But this is the place from which assets are served. So in our case, we DO need /help here.
   url: 'https://www.gmetri.com',
   //https://docusaurus.io/docs/next/docusaurus.config.js#baseurl
-  //This is the content root. Used for making relative URLs. This should be /help/ only -- /help/ causes assets to not load
+  //This is the content root. Used for making relative URLs. This should be /help/ only
   baseUrl: '/help/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'https://s.vrgmetri.com/gb-web/portal-docs/assets/img/favicon.ico',
   organizationName: 'gmetrixr', // Usually your GitHub org/user name.
-  projectName: 'docusaurus-help', // Usually your repo name.
+  projectName: 'help', // Usually your repo name.
 
   presets: [
     [
