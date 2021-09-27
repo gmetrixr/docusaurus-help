@@ -47,7 +47,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'GMetri Documentation',
+        title: 'GMetri Help Center',
         logo: {
           alt: 'GMetri',
           src: 'https://s.vrgmetri.com/gb-web/portal-docs/assets/img/logo.png',
