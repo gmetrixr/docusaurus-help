@@ -15,10 +15,7 @@ steps:
     - sudo chown -R node .
   #Setup git access for git clone to work ($HOME is /home/node)
     - mkdir -p $HOME/.ssh
-    - |
-      /bin/sh -c 'OUT=$(ssh-keyscan -t rsa github.com)
-        echo $OUT'
-    - ls $HOME/.ssh/
+    - echo -e "Host github.com\n  Hostname ssh.github.com\n  Port 443" >> $HOME/.ssh/config
     - ssh-keyscan -t rsa github.com >> $HOME/.ssh/known_hosts
     - echo "$GITHUB_PRIVATE_KEY > $HOME/.ssh/id_rsa"
     - chmod 0600 $HOME/.ssh/id_rsa
