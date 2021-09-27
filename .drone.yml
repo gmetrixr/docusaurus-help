@@ -17,7 +17,7 @@ steps:
     - mkdir -p $HOME/.ssh
     - echo "Host github.com\n\tHostname ssh.github.com\n\tPort 443" >> $HOME/.ssh/config
     - ssh-keyscan -t rsa -p 443 ssh.github.com >> $HOME/.ssh/known_hosts
-    - echo "$GITHUB_PRIVATE_KEY > $HOME/.ssh/id_rsa"
+    - echo "$GITHUB_PRIVATE_KEY" > $HOME/.ssh/id_rsa
     - chmod 0600 $HOME/.ssh/id_rsa
   #Actual deploy related commands
     - cd gmetri-help
