@@ -12,7 +12,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   url: 'https://www.gmetri.com',
   //https://docusaurus.io/docs/next/docusaurus.config.js#baseurl
   //This is the content root. Used for making relative URLs. This should be /help/ only -- /help/ causes assets to not load
-  baseUrl: '/',
+  baseUrl: '/help/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'https://s.vrgmetri.com/gb-web/portal-docs/assets/img/favicon.ico',
