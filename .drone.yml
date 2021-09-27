@@ -2,9 +2,12 @@
 kind: pipeline
 type: docker
 name: default
+workspace:
+  path: /src
 trigger:
   branch: [main]
   event: [push]
+steps:
 - name: Website
   image: gmetrixr/baseimage:node-16-dev-v1
   commands:
