@@ -1,6 +1,6 @@
 ---
 title: September 2021 Update (Teaxr v0.5.1224)
-authors: [sahil]
+authors: [amit]
 tags: [releases]
 ---
 
