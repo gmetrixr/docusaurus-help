@@ -25,7 +25,7 @@ For GMetri, we want the following structure:
 
 1. Help Center - Help home, starting point. Contains summary of all help related links.
    * URL: www.gmetri.com/help
-   * Content: `help/gmetri-help/src/pages/___`
+   * Content: `help/gmetri-help/src/docs/___` (Using Docusaurus docs, not blog - because we need a sidebar)
    * In case we need changelogs in the website, it can be a sub-blog at
       * Content: www.gmetri.com/help/changelog
       * Content: `help/gmetri-help/blog/___`

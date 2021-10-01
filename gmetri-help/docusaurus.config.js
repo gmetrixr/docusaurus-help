@@ -24,18 +24,17 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: false,
-        blog: false,
+        // blog: false,
         // docs: { //held in a different repo
         //   sidebarPath: require.resolve('./sidebars.js'),
         //   // Please change this to your repo.
-        //   editUrl: 'https://github.com/facebook/docusaurus/edit/main/website/',
+        //   editUrl: 'https://github.com/gmetrixr/help/edit/main/gmetri-help/docs/',
         // }, 
-        // blog: { //held in a different repo, can uncomment if needed for Changelog
-        //   showReadingTime: true,
-        //   // Please change this to your repo.
-        //   editUrl:
-        //     'https://github.com/facebook/docusaurus/edit/main/website/blog/',
-        // },
+        blog: {
+          // showReadingTime: true,
+          // Please change this to your repo.
+          editUrl: 'https://github.com/gmetrixr/help/edit/main/gmetri-help/blog/',
+        },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -67,7 +66,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
           //   type: 'doc',
           //   docId: 'intro',
           //   position: 'left',
-          //   label: 'Tutorial',
+          //   label: 'Help Center',
           // },
           {to: '/', label: 'Help Center', position: 'left'},
           {href: 'https://www.gmetri.com/docs/', label: 'Documentation', position: 'left'},
@@ -104,7 +103,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
               },
               {
                 label: 'Contact Us',
-                href: 'https://www.gmetri.com/contactus'
+                href: 'https://www.gmetri.com/contact'
               }
             ],
           },

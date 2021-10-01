@@ -10,4 +10,4 @@ Mail us at techsupport@gmetri.com
 
 ## For Sales Queries
 
-Mail us at sales@gmetri.com or fill your requirements [here](https://www.gmetri.com/contact).
+Mail us at sales@gmetri.com or fill your requirements here.

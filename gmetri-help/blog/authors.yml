@@ -1,17 +1,17 @@
-endi:
-  name: Endilie Yacop Sucipto
-  title: Maintainer of Docusaurus
-  url: https://github.com/endiliey
-  image_url: https://github.com/endiliey.png
+sahil:
+  name: Sahil Ahuja
+  title: Founder & CTO @ GMetriXR
+  url: https://github.com/sahil87
+  image_url: https://github.com/sahil87.png
 
-yangshun:
-  name: Yangshun Tay
-  title: Front End Engineer @ Facebook
-  url: https://github.com/yangshun
-  image_url: https://github.com/yangshun.png
+amit:
+  name: Amit Rajput
+  title: Fullstack Engineer @ GMetriXR
+  url: https://github.com/amitrajput1992
+  image_url: https://github.com/amitrajput1992.png
 
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
+# slorber:
+#   name: Sébastien Lorber
+#   title: Docusaurus maintainer
+#   url: https://sebastienlorber.com
+#   image_url: https://github.com/slorber.png
