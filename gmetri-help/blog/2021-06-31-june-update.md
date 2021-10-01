@@ -1,18 +1,17 @@
 ---
-slug: june-2021
 title: June 2021 Update (Teaxr v0.5.622)
 authors: [sahil]
 tags: [releases]
 ---
 
-### 🚀Major Features
+### :rocket: Major Features
 
 * Updated browser whitelisting for different OS and browsers
 * 2 events are available as clickable actions: is_clicked (resettable) and has_been_clicked (not-resettable)
 * Actionbar notch now shows a contrasting color to the background
 * Full support for Macbook touchpad in V5 viewer
 
-### ⏫Minor Improvements
+### :arrow_double_up: Minor Improvements 
 
 * Ability to delete and update org logo from the settings page
 * UI fixes on V5 screens
@@ -22,9 +21,10 @@ tags: [releases]
 * Reset View button can be enabled/disabled from editor
 * UX changed on deployment slug renames when there are clashing deployments with same slug. User sees a toaster and the changes are reverted
 
-### Bug Fixes
+### :bug: Bug Fixes
 
 A whole lot of bug fixes in the V5 viewer:
+
 * Hover events will now works correctly for 0 secs durations
 * All Viewer Screens (Leadgen, Language, VR instructions etc) work seamlessly on mobile devices
 * Actionbar variations on all devices (mobile/tablet/desktop) work as expected
