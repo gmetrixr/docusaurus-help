@@ -4,9 +4,16 @@
         <title>GMetri Documentation Blog</title>
         <link>https://www.gmetri.com/help/blog</link>
         <description>GMetri Documentation Blog</description>
-        <lastBuildDate>Thu, 14 Oct 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Oct 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[October 2021 Update (Teaxr v0.5.1362)]]></title>
+            <link>https://www.gmetri.com/help/blog/2021/10/21/oct-update</link>
+            <guid>October 2021 Update (Teaxr v0.5.1362)</guid>
+            <pubDate>Thu, 21 Oct 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Major Features]]></description>
+        </item>
         <item>
             <title><![CDATA[October 2021 Update (Teaxr v0.5.1315)]]></title>
             <link>https://www.gmetri.com/help/blog/2021/10/14/oct-update</link>

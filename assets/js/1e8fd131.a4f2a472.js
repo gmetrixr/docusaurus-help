@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgmetri_help=self.webpackChunkgmetri_help||[]).push([[828],{8435:function(e){e.exports=JSON.parse('{"permalink":"/help/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":8,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
