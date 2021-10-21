@@ -27,3 +27,5 @@ Our mission is to make a collaborative XR platform where anyone can create and s
 ### Get In Touch
 
 * [Contact Us](/help/contact-us)
+* Submit [Feature Requests](https://feedback.gmetri.com/boards/feature-requests)
+* Submit [Bugs](https://feedback.gmetri.com/boards/bugs)
