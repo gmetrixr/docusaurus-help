@@ -24,6 +24,6 @@ tags: [releases]
   * Geolocation and maps in analytics shows correct locations
   * Login fix for experiences using SCORM packages
   
-* View:
+* Viewer:
   * Added a few missing emoji icons
   * Fixed page crashes when navigating quickly between scenes from menu 
