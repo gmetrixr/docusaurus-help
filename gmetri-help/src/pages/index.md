@@ -21,7 +21,7 @@ Our mission is to make a collaborative XR platform where anyone can create and s
 ### Updates
 
 * [Just About Real](https://www.gmetri.com/justaboutreal/)
-* [Changelog](/help/blog/)
+* [Changelog](/help/updates/)
 * [Community Forum](https://community.gmetri.com)
 
 ### Get In Touch

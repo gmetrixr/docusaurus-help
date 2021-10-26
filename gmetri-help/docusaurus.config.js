@@ -34,7 +34,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         blog: {
           // showReadingTime: true,
           // Please change this to your repo.
-          editUrl: 'https://github.com/gmetrixr/help/edit/main/gmetri-help/blog/',
+          editUrl: 'https://github.com/gmetrixr/help/edit/main/gmetri-help/updates/',
+          path: 'updates',
+          routeBasePath: 'updates',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
