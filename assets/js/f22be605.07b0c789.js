@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkgmetri_help=self.webpackChunkgmetri_help||[]).push([[208],{4279:function(e){e.exports=JSON.parse('{"allTagsPath":"/help/updates/tags","slug":"/help/updates/tags/releases","name":"releases","count":7,"permalink":"/help/updates/tags/releases"}')}}]);
