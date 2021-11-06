@@ -24,13 +24,15 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
       '@docusaurus/preset-classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
-        docs: false,
+        // docs: false,
         // blog: false,
-        // docs: { //held in a different repo
-        //   sidebarPath: require.resolve('./sidebars.js'),
-        //   // Please change this to your repo.
-        //   editUrl: 'https://github.com/gmetrixr/help/edit/main/gmetri-help/docs/',
-        // }, 
+        docs: {
+          sidebarPath: require.resolve('./sidebars.js'),
+          path: 'pages',
+          routeBasePath: 'pages',
+          // Please change this to your repo.
+          // editUrl: 'https://github.com/gmetrixr/help/edit/main/gmetri-help/pages/',
+        }, 
         blog: {
           // showReadingTime: true,
           // Please change this to your repo.
