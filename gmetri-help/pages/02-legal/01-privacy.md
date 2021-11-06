@@ -215,10 +215,9 @@ If required by law, we will get your permission or give you the opportunity to o
 
 ## Contact Us
 
-For any questions or concerns regarding your privacy, you may contact us using the following details:
+For any questions or concerns regarding your privacy, including requesting for deletion of data, you may contact us using the following details:
 
 
 **Privacy Contact:** Sahil Ahuja
 
 **Privacy Contact Form:** https://g3d.in/privacy-contact-form
-
