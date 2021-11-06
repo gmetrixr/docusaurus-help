@@ -21,15 +21,15 @@ These Terms of Service were last updated on 6 November 2021.
 By using this website, you warrant on behalf of yourself, your users, and other parties you represent that you will not:
 
 
-modify, copy, prepare derivative works of, decompile, or reverse engineer any materials and software contained on this website;
-remove any copyright or other proprietary notations from any materials and software on this website;
-transfer the materials to another person or “mirror” the materials on any other server;
-knowingly or negligently use this website or any of its associated services in a way that abuses or disrupts our networks or any other service GMetri provides;
-use this website or its associated services to transmit or publish any harassing, indecent, obscene, fraudulent, or unlawful material;
-use this website or its associated services in violation of any applicable laws or regulations;
-use this website in conjunction with sending unauthorized advertising or spam;
-harvest, collect, or gather user data without the user’s consent; or
-use this website or its associated services in such a way that may infringe the privacy, intellectual property rights, or other rights of third parties.
+1. modify, copy, prepare derivative works of, decompile, or reverse engineer any materials and software contained on this website;
+2. remove any copyright or other proprietary notations from any materials and software on this website;
+3. transfer the materials to another person or “mirror” the materials on any other server;
+4. knowingly or negligently use this website or any of its associated services in a way that abuses or disrupts our networks or any other service GMetri provides;
+5. use this website or its associated services to transmit or publish any harassing, indecent, obscene, fraudulent, or unlawful material;
+6. use this website or its associated services in violation of any applicable laws or regulations;
+7. use this website in conjunction with sending unauthorized advertising or spam;
+8. harvest, collect, or gather user data without the user’s consent; or
+9. use this website or its associated services in such a way that may infringe the privacy, intellectual property rights, or other rights of third parties.
 
 ## Intellectual Property
 

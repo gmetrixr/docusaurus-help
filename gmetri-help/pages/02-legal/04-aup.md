@@ -36,8 +36,8 @@ If a customer — or their end-user or anyone using our Products as a result of 
 Our Products must not be used to transmit, distribute or store any material in violation of any applicable law. This includes but isn’t limited to:
 
 
-any material protected by copyright, trademark, trade secret, or other intellectual property right used without proper authorization, and
-any material that is obscene, defamatory, constitutes an illegal threat or violates export control laws.
+1. any material protected by copyright, trademark, trade secret, or other intellectual property right used without proper authorization, and
+2. any material that is obscene, defamatory, constitutes an illegal threat or violates export control laws.
 
 
 The customer is solely responsible for all material they input, upload, disseminate, transmit, create or publish through or on our Products, and for obtaining legal permission to use any works included in such material.
@@ -72,13 +72,13 @@ Our Products must not be used for purposely engaging in activities designed to h
 Other activities considered unethical, exploitative, and malicious include:
 
 
-Obtaining (or attempting to obtain) services from us with the intent to avoid payment;
-Using our facilities to obtain (or attempt to obtain) services from another provider with the intent to avoid payment;
-The unauthorized access, alteration, or destruction (or any attempt thereof) of any information about our customers or end-users, by any means or device;
-Using our facilities to interfere with the use of our facilities and network by other customers or authorized individuals;
-Publishing or transmitting any content of links that incite violence, depict a violent act, depict child pornography, or threaten anyone’s health and safety;
-Any act or omission in violation of consumer protection laws and regulations;
-Any violation of a person’s privacy.
+1. Obtaining (or attempting to obtain) services from us with the intent to avoid payment;
+2. Using our facilities to obtain (or attempt to obtain) services from another provider with the intent to avoid payment;
+3. The unauthorized access, alteration, or destruction (or any attempt thereof) of any information about our customers or end-users, by any means or device;
+4. Using our facilities to interfere with the use of our facilities and network by other customers or authorized individuals;
+5. Publishing or transmitting any content of links that incite violence, depict a violent act, depict child pornography, or threaten anyone’s health and safety;
+6. Any act or omission in violation of consumer protection laws and regulations;
+7. Any violation of a person’s privacy.
 
 
 Our Products may not be used by any person or entity, which is involved with or suspected of involvement in activities or causes relating to illegal gambling; terrorism; narcotics trafficking; arms trafficking or the proliferation, development, design, manufacture, production, stockpiling, or use of nuclear, chemical or biological weapons, weapons of mass destruction, or missiles; in each case including any affiliation with others whatsoever who support the above such activities or causes.
@@ -95,6 +95,6 @@ This policy outlines a non-exclusive list of activities and intent we deem unacc
 We reserve the right to modify this policy at any time by publishing the revised version on our website. The revised version will be effective from the earlier of:
 
 
-the date the customer uses our Products after we publish the revised version on our website; or
-30 days after we publish the revised version on our website.
+* the date the customer uses our Products after we publish the revised version on our website; or
+* 30 days after we publish the revised version on our website.
 
