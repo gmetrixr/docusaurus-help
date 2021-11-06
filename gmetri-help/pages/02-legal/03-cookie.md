@@ -1,5 +1,5 @@
 ---
-sidebar_label: 'Cookie' #Name in sidebar
+sidebar_label: 'Cookie Policy' #Name in sidebar
 sidebar_position: 3 # float position is supported
 ---
 
