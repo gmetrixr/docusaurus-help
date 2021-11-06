@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkgmetri_help=self.webpackChunkgmetri_help||[]).push([[182],{4018:function(e){e.exports=JSON.parse('{"permalink":"/help/updates","page":1,"postsPerPage":10,"totalPages":1,"totalCount":9,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
