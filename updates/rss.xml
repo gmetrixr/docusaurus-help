@@ -4,9 +4,79 @@
         <title>GMetri Documentation Blog</title>
         <link>https://www.gmetri.com/help/updates</link>
         <description>GMetri Documentation Blog</description>
-        <lastBuildDate>Tue, 26 Oct 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Feb 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[February 2022 Update (Teaxr v0.5.1902)]]></title>
+            <link>https://www.gmetri.com/help/updates/2022/02/11/feb-update</link>
+            <guid>February 2022 Update (Teaxr v0.5.1902)</guid>
+            <pubDate>Fri, 11 Feb 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Major Features]]></description>
+        </item>
+        <item>
+            <title><![CDATA[January 2022 Update (Teaxr v0.5.1839)]]></title>
+            <link>https://www.gmetri.com/help/updates/2022/01/28/jan-update</link>
+            <guid>January 2022 Update (Teaxr v0.5.1839)</guid>
+            <pubDate>Fri, 28 Jan 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Major Features]]></description>
+        </item>
+        <item>
+            <title><![CDATA[January 2022 Update (Teaxr v0.5.1723)]]></title>
+            <link>https://www.gmetri.com/help/updates/2022/01/10/jan-update</link>
+            <guid>January 2022 Update (Teaxr v0.5.1723)</guid>
+            <pubDate>Mon, 10 Jan 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Major Features]]></description>
+        </item>
+        <item>
+            <title><![CDATA[December 2021 Update (Teaxr v0.5.1632)]]></title>
+            <link>https://www.gmetri.com/help/updates/2021/12/10/dec-update</link>
+            <guid>December 2021 Update (Teaxr v0.5.1632)</guid>
+            <pubDate>Fri, 10 Dec 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Major Features]]></description>
+        </item>
+        <item>
+            <title><![CDATA[December 2021 Update (Teaxr v0.5.1567)]]></title>
+            <link>https://www.gmetri.com/help/updates/2021/12/01/dec-update</link>
+            <guid>December 2021 Update (Teaxr v0.5.1567)</guid>
+            <pubDate>Wed, 01 Dec 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Major Features]]></description>
+        </item>
+        <item>
+            <title><![CDATA[November 2021 Update (Teaxr v0.5.1524)]]></title>
+            <link>https://www.gmetri.com/help/updates/2021/11/26/nov-update</link>
+            <guid>November 2021 Update (Teaxr v0.5.1524)</guid>
+            <pubDate>Fri, 26 Nov 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Bug Fixes]]></description>
+        </item>
+        <item>
+            <title><![CDATA[November 2021 Update (Teaxr v0.5.1483)]]></title>
+            <link>https://www.gmetri.com/help/updates/2021/11/17/nov-update</link>
+            <guid>November 2021 Update (Teaxr v0.5.1483)</guid>
+            <pubDate>Wed, 17 Nov 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Major Features]]></description>
+        </item>
+        <item>
+            <title><![CDATA[November 2021 Update (Teaxr v0.5.1446)]]></title>
+            <link>https://www.gmetri.com/help/updates/2021/11/12/nov-update</link>
+            <guid>November 2021 Update (Teaxr v0.5.1446)</guid>
+            <pubDate>Fri, 12 Nov 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Major Features]]></description>
+        </item>
+        <item>
+            <title><![CDATA[November 2021 Update (Teaxr v0.5.1426)]]></title>
+            <link>https://www.gmetri.com/help/updates/2021/11/9/nov-update</link>
+            <guid>November 2021 Update (Teaxr v0.5.1426)</guid>
+            <pubDate>Tue, 09 Nov 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Major Features]]></description>
+        </item>
+        <item>
+            <title><![CDATA[November 2021 Update (Teaxr v0.5.1406)]]></title>
+            <link>https://www.gmetri.com/help/updates/2021/11/2/nov-update</link>
+            <guid>November 2021 Update (Teaxr v0.5.1406)</guid>
+            <pubDate>Tue, 02 Nov 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Major Features]]></description>
+        </item>
         <item>
             <title><![CDATA[October 2021 Update (Teaxr v0.5.1379)]]></title>
             <link>https://www.gmetri.com/help/updates/2021/10/26/oct-update</link>

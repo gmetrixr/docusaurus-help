@@ -2,11 +2,121 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gmetri.com/help/updates</id>
     <title>GMetri Documentation Blog</title>
-    <updated>2021-10-26T00:00:00.000Z</updated>
+    <updated>2022-02-11T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.gmetri.com/help/updates"/>
     <subtitle>GMetri Documentation Blog</subtitle>
     <icon>https://www.gmetri.com/help/https://s.vrgmetri.com/gb-web/portal-docs/assets/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[February 2022 Update (Teaxr v0.5.1902)]]></title>
+        <id>February 2022 Update (Teaxr v0.5.1902)</id>
+        <link href="https://www.gmetri.com/help/updates/2022/02/11/feb-update"/>
+        <updated>2022-02-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Major Features]]></summary>
+        <author>
+            <name>Amit Rajput</name>
+            <uri>https://github.com/amitrajput1992</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[January 2022 Update (Teaxr v0.5.1839)]]></title>
+        <id>January 2022 Update (Teaxr v0.5.1839)</id>
+        <link href="https://www.gmetri.com/help/updates/2022/01/28/jan-update"/>
+        <updated>2022-01-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Major Features]]></summary>
+        <author>
+            <name>Amit Rajput</name>
+            <uri>https://github.com/amitrajput1992</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[January 2022 Update (Teaxr v0.5.1723)]]></title>
+        <id>January 2022 Update (Teaxr v0.5.1723)</id>
+        <link href="https://www.gmetri.com/help/updates/2022/01/10/jan-update"/>
+        <updated>2022-01-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Major Features]]></summary>
+        <author>
+            <name>Amit Rajput</name>
+            <uri>https://github.com/amitrajput1992</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[December 2021 Update (Teaxr v0.5.1632)]]></title>
+        <id>December 2021 Update (Teaxr v0.5.1632)</id>
+        <link href="https://www.gmetri.com/help/updates/2021/12/10/dec-update"/>
+        <updated>2021-12-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Major Features]]></summary>
+        <author>
+            <name>Amit Rajput</name>
+            <uri>https://github.com/amitrajput1992</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[December 2021 Update (Teaxr v0.5.1567)]]></title>
+        <id>December 2021 Update (Teaxr v0.5.1567)</id>
+        <link href="https://www.gmetri.com/help/updates/2021/12/01/dec-update"/>
+        <updated>2021-12-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Major Features]]></summary>
+        <author>
+            <name>Amit Rajput</name>
+            <uri>https://github.com/amitrajput1992</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[November 2021 Update (Teaxr v0.5.1524)]]></title>
+        <id>November 2021 Update (Teaxr v0.5.1524)</id>
+        <link href="https://www.gmetri.com/help/updates/2021/11/26/nov-update"/>
+        <updated>2021-11-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Bug Fixes]]></summary>
+        <author>
+            <name>Amit Rajput</name>
+            <uri>https://github.com/amitrajput1992</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[November 2021 Update (Teaxr v0.5.1483)]]></title>
+        <id>November 2021 Update (Teaxr v0.5.1483)</id>
+        <link href="https://www.gmetri.com/help/updates/2021/11/17/nov-update"/>
+        <updated>2021-11-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Major Features]]></summary>
+        <author>
+            <name>Amit Rajput</name>
+            <uri>https://github.com/amitrajput1992</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[November 2021 Update (Teaxr v0.5.1446)]]></title>
+        <id>November 2021 Update (Teaxr v0.5.1446)</id>
+        <link href="https://www.gmetri.com/help/updates/2021/11/12/nov-update"/>
+        <updated>2021-11-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Major Features]]></summary>
+        <author>
+            <name>Amit Rajput</name>
+            <uri>https://github.com/amitrajput1992</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[November 2021 Update (Teaxr v0.5.1426)]]></title>
+        <id>November 2021 Update (Teaxr v0.5.1426)</id>
+        <link href="https://www.gmetri.com/help/updates/2021/11/9/nov-update"/>
+        <updated>2021-11-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Major Features]]></summary>
+        <author>
+            <name>Amit Rajput</name>
+            <uri>https://github.com/amitrajput1992</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[November 2021 Update (Teaxr v0.5.1406)]]></title>
+        <id>November 2021 Update (Teaxr v0.5.1406)</id>
+        <link href="https://www.gmetri.com/help/updates/2021/11/2/nov-update"/>
+        <updated>2021-11-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Major Features]]></summary>
+        <author>
+            <name>Amit Rajput</name>
+            <uri>https://github.com/amitrajput1992</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[October 2021 Update (Teaxr v0.5.1379)]]></title>
         <id>October 2021 Update (Teaxr v0.5.1379)</id>
