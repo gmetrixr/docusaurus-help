@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>GMetri Documentation Blog</title>
         <link>https://www.gmetri.com/help/updates</link>
@@ -10,128 +10,164 @@
         <item>
             <title><![CDATA[February 2022 Update (Teaxr v0.5.1902)]]></title>
             <link>https://www.gmetri.com/help/updates/2022/02/11/feb-update</link>
-            <guid>February 2022 Update (Teaxr v0.5.1902)</guid>
+            <guid>/2022/02/11/feb-update</guid>
             <pubDate>Fri, 11 Feb 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Major Features]]></description>
+            <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LQtj" id="-major-features">🚀 Major Features<a class="hash-link" href="#-major-features" title="Direct link to heading">​</a></h3><ul><li><p>Editor</p><ul><li>Users are greeted with an <strong>onboarding guide</strong></li><li><strong>Rolling out V5 Editor</strong> as default editor for new projects and option to upgrade existing v4 projects to v5 projects</li><li>A new <strong>Resource Panel</strong> has been added with lots of useful links and guides</li><li>Ability to <strong>convert TTS to Audio</strong> element</li></ul></li><li><p>Viewer</p><ul><li>Option to <strong>"Enable Multiplayer mode"</strong> which shows all the connected viewers on view links. Option can be paired with comments and enabled from the publish section</li><li>Ability to use <strong>"find and replace"</strong> rules with string variables</li></ul></li><li><p>Website</p><ul><li>New website rollout</li></ul></li></ul><h3 class="anchor anchorWithStickyNavbar_LQtj" id="-minor-improvements">⏫ Minor Improvements<a class="hash-link" href="#-minor-improvements" title="Direct link to heading">​</a></h3><ul><li>Editor<ul><li><strong>Scroll position</strong> now doesn’t reset when switching between Properties and Structure Tabs     </li><li>3D Models can be previewed in the File Manager</li><li>Ability to control the <strong>preview banner of any video</strong> element being shown in the Editor, controlled within the Preview Popup</li><li>Search now works in Rules’ dropdowns</li><li>Element/Scene address can now be copied from the Properties Panel toolbar</li></ul></li></ul><h3 class="anchor anchorWithStickyNavbar_LQtj" id="-bug-fixes">🐛 Bug Fixes<a class="hash-link" href="#-bug-fixes" title="Direct link to heading">​</a></h3><ul><li>Editor<ul><li>Copy-Paste actions fixed for group elements</li><li>Fixed File Manager searching for Drew Pano and GMetri Pano Plugins</li><li>Correct mimetype added to TTS files</li><li><strong>Text alignment</strong> properties now work consistently between the editor and viewer</li><li><strong>Color picker</strong> in the right bar now picks up correct colors</li></ul></li><li>Viewer<ul><li>Improved error handling and error reporting</li><li>Fixed billboarding for Oculus Quest 1</li></ul></li></ul>]]></content:encoded>
+            <category>releases</category>
         </item>
         <item>
             <title><![CDATA[January 2022 Update (Teaxr v0.5.1839)]]></title>
             <link>https://www.gmetri.com/help/updates/2022/01/28/jan-update</link>
-            <guid>January 2022 Update (Teaxr v0.5.1839)</guid>
+            <guid>/2022/01/28/jan-update</guid>
             <pubDate>Fri, 28 Jan 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Major Features]]></description>
+            <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LQtj" id="-major-features">🚀 Major Features<a class="hash-link" href="#-major-features" title="Direct link to heading">​</a></h3><ul><li>Editor<ul><li>New properties for text element including background color, background opacity, border color, border thickness. Also added ability to upgrade any existing text element to enable all the new properties</li><li>A new grow animation option added to all 3d elements.</li></ul></li></ul><h3 class="anchor anchorWithStickyNavbar_LQtj" id="-minor-improvements">⏫ Minor Improvements<a class="hash-link" href="#-minor-improvements" title="Direct link to heading">​</a></h3><ul><li>Editor<ul><li>Documentation for GMetri Plugin Ecosystem     </li><li>Elements can be added inside groups directly from the add element UI</li></ul></li></ul><ul><li>Viewer<ul><li>Viewer performance optimizations to reduce network calls overhead</li></ul></li></ul><h3 class="anchor anchorWithStickyNavbar_LQtj" id="-bug-fixes">🐛 Bug Fixes<a class="hash-link" href="#-bug-fixes" title="Direct link to heading">​</a></h3><ul><li><p>Viewer</p><ul><li>Actionbar element styling fix for devices with smaller resolutions</li><li>Capture text element matches text with regex validation correctly</li><li>Embed HTML element appears in popup mode when pip is selected to maintain consistency of the UI</li></ul></li><li><p>Portal</p><ul><li>Fixed views and viewers count on deployment analytics page</li></ul></li></ul>]]></content:encoded>
+            <category>releases</category>
         </item>
         <item>
             <title><![CDATA[January 2022 Update (Teaxr v0.5.1723)]]></title>
             <link>https://www.gmetri.com/help/updates/2022/01/10/jan-update</link>
-            <guid>January 2022 Update (Teaxr v0.5.1723)</guid>
+            <guid>/2022/01/10/jan-update</guid>
             <pubDate>Mon, 10 Jan 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Major Features]]></description>
+            <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LQtj" id="-major-features">🚀 Major Features<a class="hash-link" href="#-major-features" title="Direct link to heading">​</a></h3><ul><li><p>Portal</p><ul><li>New Pricing pages and billing setup for new subscribers</li></ul></li><li><p>Viewer</p><ul><li>GMetri view links are now oEmbed compatible</li></ul></li><li><p>Editor</p><ul><li>Unlimited deployments for all tiers     </li><li>Fonts support for timer element</li></ul></li></ul><h3 class="anchor anchorWithStickyNavbar_LQtj" id="-minor-improvements">⏫ Minor Improvements<a class="hash-link" href="#-minor-improvements" title="Direct link to heading">​</a></h3><ul><li><p>Portal</p><ul><li>User profile page now shows an API token that can be used with the plugin system</li></ul></li><li><p>Editor</p><ul><li>Elements can be copy-pasted inside groups</li></ul></li></ul><h3 class="anchor anchorWithStickyNavbar_LQtj" id="-bug-fixes">🐛 Bug Fixes<a class="hash-link" href="#-bug-fixes" title="Direct link to heading">​</a></h3><ul><li><p>Editor</p><ul><li>Fixed issue with sketchfab imports </li><li>Fixed issue with deletion of grouped elements </li><li>Fixed issue with settings panel for projects migrated from v4 </li><li>Rules can be added to actionbar items + Files can be selected for actionbar items when element is inside a group</li></ul></li><li><p>Portal</p><ul><li>Fixed advanced analytics links </li><li>Deployment analytics and org analytics pages show same data and date range filters </li><li>Fixed date range selection on deployment analytics page</li></ul></li></ul>]]></content:encoded>
+            <category>releases</category>
         </item>
         <item>
             <title><![CDATA[December 2021 Update (Teaxr v0.5.1632)]]></title>
             <link>https://www.gmetri.com/help/updates/2021/12/10/dec-update</link>
-            <guid>December 2021 Update (Teaxr v0.5.1632)</guid>
+            <guid>/2021/12/10/dec-update</guid>
             <pubDate>Fri, 10 Dec 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Major Features]]></description>
+            <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LQtj" id="-major-features">🚀 Major Features<a class="hash-link" href="#-major-features" title="Direct link to heading">​</a></h3><ul><li><p>Portal</p><ul><li>Leaderboard analytics enabled for all tiers</li></ul></li><li><p>Editor</p><ul><li>Unlimited deployments for all tiers     </li><li>Fonts support for timer element</li></ul></li><li><p>Viewer</p><ul><li>New Anchored mode for EmbedHTML element which allows to fix HTML content on top of a target element     </li><li>Improved login and viewer state management for deployment links</li></ul></li></ul><h3 class="anchor anchorWithStickyNavbar_LQtj" id="-minor-improvements">⏫ Minor Improvements<a class="hash-link" href="#-minor-improvements" title="Direct link to heading">​</a></h3><ul><li><p>Portal</p><ul><li>General improvements to increase responsiveness on analytics pages</li><li>Feature restrictions w.r.t to Pricing 2021</li><li>For new signups 1st project created is always V5</li></ul></li><li><p>Editor</p><ul><li>Volume option can be enabled from preferences     </li><li>Instructions element renamed to Stories</li></ul></li></ul><h3 class="anchor anchorWithStickyNavbar_LQtj" id="-bug-fixes">🐛 Bug Fixes<a class="hash-link" href="#-bug-fixes" title="Direct link to heading">​</a></h3><ul><li><p>Editor</p><ul><li>Fixed issue with audio element preview and file selection</li><li>Fixed issue with AR element file selection</li><li>Removed textbox placeholders from unwanted places</li><li>Fixed dropdown displays for boolean variables</li></ul></li><li><p>Viewer</p><ul><li>Actionbar UI fixed for device having &lt; 360px of height in landscape mode</li><li>Fixed issue with whitespace on iOS devices</li><li>Fixed issue with Viewer Form data save</li><li>Fixed dropdown styling on shopping card</li></ul></li><li><p>Portal</p><ul><li>Back to Experience links fixed on analytics page     </li><li>Fixed google login</li></ul></li></ul>]]></content:encoded>
+            <category>releases</category>
         </item>
         <item>
             <title><![CDATA[December 2021 Update (Teaxr v0.5.1567)]]></title>
             <link>https://www.gmetri.com/help/updates/2021/12/01/dec-update</link>
-            <guid>December 2021 Update (Teaxr v0.5.1567)</guid>
+            <guid>/2021/12/01/dec-update</guid>
             <pubDate>Wed, 01 Dec 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Major Features]]></description>
+            <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LQtj" id="-major-features">🚀 Major Features<a class="hash-link" href="#-major-features" title="Direct link to heading">​</a></h3><ul><li>Portal<ul><li>A new section with Variable Stats added to the Analytics page </li><li>Advanced Analytics show more information about per scene analytics</li></ul></li></ul><h3 class="anchor anchorWithStickyNavbar_LQtj" id="-minor-improvements">⏫ Minor Improvements<a class="hash-link" href="#-minor-improvements" title="Direct link to heading">​</a></h3><ul><li><p>Editor</p><ul><li>Renaming viewer form fields also renames the linked variables </li><li>General UI improvements</li></ul></li><li><p>Viewer</p><ul><li>Scene names are tracked and can be seen in the advanced analytics section </li><li>Control panel doesn’t appear If no items can be shown</li></ul></li></ul><h3 class="anchor anchorWithStickyNavbar_LQtj" id="-bug-fixes">🐛 Bug Fixes<a class="hash-link" href="#-bug-fixes" title="Direct link to heading">​</a></h3><ul><li><p>Editor</p><ul><li>Color Picker crashes fixed </li><li>Removed hidden operation for Popup element from toolbar </li><li>Allow selection of sprite files for Popup sprite mode</li></ul></li><li><p>Viewer</p><ul><li>Media Upload camera output can be seen correctly on iOS devices </li><li>Better scene transitions when 2D elements are involved like Popup/Quiz/Actionbar etc</li></ul></li></ul>]]></content:encoded>
+            <category>releases</category>
         </item>
         <item>
             <title><![CDATA[November 2021 Update (Teaxr v0.5.1524)]]></title>
             <link>https://www.gmetri.com/help/updates/2021/11/26/nov-update</link>
-            <guid>November 2021 Update (Teaxr v0.5.1524)</guid>
+            <guid>/2021/11/26/nov-update</guid>
             <pubDate>Fri, 26 Nov 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Bug Fixes]]></description>
+            <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LQtj" id="-bug-fixes">🐛 Bug Fixes<a class="hash-link" href="#-bug-fixes" title="Direct link to heading">​</a></h3><ul><li><p>Editor</p><ul><li>New scenes will automatically get added to the menu</li><li>QRMatcher rules show correct entries in rules</li><li>Directional light impacts all 3D models correctly</li><li>Timer position shows correctly in editor and viewer</li><li>Green screen effect on videos</li><li>Fixed issue with viewer form not working when there all entries are deleted</li><li>Fixed issue inconsistent menu entries when scenes are deleted</li><li>Geolocation can now be used from the deployment section</li><li>Linked variables with media upload are shown correctly in the “Autogenerated” variables section</li></ul></li><li><p>Viewer</p><ul><li>Multiple fonts for text elements can be used on iOS devices     </li><li>Fixed fluctuations on mobile devices when using scene range locks </li><li>Instructions element skips entries that don’t have any asset selected </li><li>Removed viewer state save calls for preview mode </li><li>Large viewer state updates now allowed</li></ul></li><li><p>Portal</p><ul><li>Deprecated editor login </li><li>Fixed Azure login</li></ul></li></ul>]]></content:encoded>
+            <category>releases</category>
         </item>
         <item>
             <title><![CDATA[November 2021 Update (Teaxr v0.5.1483)]]></title>
             <link>https://www.gmetri.com/help/updates/2021/11/17/nov-update</link>
-            <guid>November 2021 Update (Teaxr v0.5.1483)</guid>
+            <guid>/2021/11/17/nov-update</guid>
             <pubDate>Wed, 17 Nov 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Major Features]]></description>
+            <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LQtj" id="-major-features">🚀 Major Features<a class="hash-link" href="#-major-features" title="Direct link to heading">​</a></h3><ul><li>Editor<ul><li>Added safe names for files uploaded and variables names to resolve special characters.</li></ul></li></ul><h3 class="anchor anchorWithStickyNavbar_LQtj" id="-minor-improvements">⏫ Minor Improvements<a class="hash-link" href="#-minor-improvements" title="Direct link to heading">​</a></h3><ul><li><p>Editor</p><ul><li>Updated preferences page in deployment section</li><li>Added functionality to download comments from the Publish section</li><li>Improved updates from number/decimal properties</li><li>Revamped variables and support sections.</li><li>Added relevant toasters and loading indicators.</li></ul></li><li><p>Viewer</p><ul><li>For embed HTML element, popup mode becomes full screen on mobile phones</li><li>Error screen with refresh button added for experiences with stale login.</li></ul></li></ul><h3 class="anchor anchorWithStickyNavbar_LQtj" id="-bug-fixes">🐛 Bug Fixes<a class="hash-link" href="#-bug-fixes" title="Direct link to heading">​</a></h3><ul><li>Viewer<ul><li>Fixed inconsistent height for quiz element</li><li>Fixed multiple updates in singular option not happening in quiz element</li></ul></li><li>Portal<ul><li>Fixed analytics page views table UI and functionality.</li><li>Fixed geolocate failures</li></ul></li></ul>]]></content:encoded>
+            <category>releases</category>
         </item>
         <item>
             <title><![CDATA[November 2021 Update (Teaxr v0.5.1446)]]></title>
             <link>https://www.gmetri.com/help/updates/2021/11/12/nov-update</link>
-            <guid>November 2021 Update (Teaxr v0.5.1446)</guid>
+            <guid>/2021/11/12/nov-update</guid>
             <pubDate>Fri, 12 Nov 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Major Features]]></description>
+            <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LQtj" id="-major-features">🚀 Major Features<a class="hash-link" href="#-major-features" title="Direct link to heading">​</a></h3><ul><li>Viewer<ul><li>Better transparency management and rendering of all elements</li></ul></li><li>Editor<ul><li>Undo-Redo can be accessed using keyboard shortcuts. The list of all keyboard shortcuts is published <a href="https://www.gmetri.com/docs/platform/create/experience/keyboard_shortcuts" target="_blank" rel="noopener noreferrer">here</a></li></ul></li></ul><h3 class="anchor anchorWithStickyNavbar_LQtj" id="-minor-improvements">⏫ Minor Improvements<a class="hash-link" href="#-minor-improvements" title="Direct link to heading">​</a></h3><ul><li>Editor<ul><li>Adding new element when a group element is selected adds it within the same group</li><li>For all elements that have background_source, 3d_model_source, a new option to remove the selected assets</li><li>Deprecated text length from viewer form</li></ul></li></ul><h3 class="anchor anchorWithStickyNavbar_LQtj" id="-bug-fixes">🐛 Bug Fixes<a class="hash-link" href="#-bug-fixes" title="Direct link to heading">​</a></h3><ul><li>Editor<ul><li><code>On End</code> event added to instructions element. Fires when all stories have finished</li><li>FOV change shows up correctly in the 360 environment</li><li>Updates to experience can be viewed correctly in the preview/view links. Experience data/cache gets updated correctly.</li><li>Correct updates to deployment authentication</li></ul></li><li>Viewer<ul><li>Fixed billboarding in VR mode</li><li>Fixed issue with Product card where it doesn't show <code>3D Model</code> button</li></ul></li></ul>]]></content:encoded>
+            <category>releases</category>
         </item>
         <item>
             <title><![CDATA[November 2021 Update (Teaxr v0.5.1426)]]></title>
             <link>https://www.gmetri.com/help/updates/2021/11/9/nov-update</link>
-            <guid>November 2021 Update (Teaxr v0.5.1426)</guid>
+            <guid>/2021/11/9/nov-update</guid>
             <pubDate>Tue, 09 Nov 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Major Features]]></description>
+            <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LQtj" id="-major-features">🚀 Major Features<a class="hash-link" href="#-major-features" title="Direct link to heading">​</a></h3><ul><li>Viewer<ul><li>Shopping element and product card redesign</li></ul></li></ul><h3 class="anchor anchorWithStickyNavbar_LQtj" id="-minor-improvements">⏫ Minor Improvements<a class="hash-link" href="#-minor-improvements" title="Direct link to heading">​</a></h3><ul><li><p>Editor</p><ul><li>Toaster is shown on all updates in the publish section</li><li>Rightbar panel design updates</li><li>On adding new section in popup, all previous sections auto collapse</li><li>Add red bounding box even when elements are locked</li></ul></li><li><p>Viewer</p><ul><li>Deprecated: Scene pitch correction. All scene pitch correction in scene gets converted into point to rules automatically.</li></ul></li></ul><h3 class="anchor anchorWithStickyNavbar_LQtj" id="-bug-fixes">🐛 Bug Fixes<a class="hash-link" href="#-bug-fixes" title="Direct link to heading">​</a></h3><ul><li>Editor<ul><li>Reset view not working in orbit mode fixed</li><li>Dragging in Orbit mode fixed</li><li>Changed all docs links on portal and editor</li><li>Action bar rules’ 3rd element inconsistency when updated from v4 to v5 fixed</li><li>Project property defaults shown correctly</li></ul></li><li>Viewer<ul><li>Pitch range min value not working fixed</li><li>Product card, quiz position fixes</li></ul></li><li>Portal<ul><li>Fixed new project creation flow.</li></ul></li></ul>]]></content:encoded>
+            <category>releases</category>
         </item>
         <item>
             <title><![CDATA[November 2021 Update (Teaxr v0.5.1406)]]></title>
             <link>https://www.gmetri.com/help/updates/2021/11/2/nov-update</link>
-            <guid>November 2021 Update (Teaxr v0.5.1406)</guid>
+            <guid>/2021/11/2/nov-update</guid>
             <pubDate>Tue, 02 Nov 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Major Features]]></description>
+            <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LQtj" id="-major-features">🚀 Major Features<a class="hash-link" href="#-major-features" title="Direct link to heading">​</a></h3><ul><li>Editor <ul><li>All connected user can be seen on the bottom left on the editor window.</li></ul></li></ul><h3 class="anchor anchorWithStickyNavbar_LQtj" id="-minor-improvements">⏫ Minor Improvements<a class="hash-link" href="#-minor-improvements" title="Direct link to heading">​</a></h3><ul><li>Editor<ul><li>General UI updates for properties and structure panels</li></ul></li><li>Viewer <ul><li>An error message is displayed to the viewers when there is network disconnection</li></ul></li></ul><h3 class="anchor anchorWithStickyNavbar_LQtj" id="-bug-fixes">🐛 Bug Fixes<a class="hash-link" href="#-bug-fixes" title="Direct link to heading">​</a></h3><ul><li><p>Editor</p><ul><li>Improved element/scene deletion resolution for multiplayer system</li><li>Timer element durations are correctly displayed in the editor</li><li>Nested elements within groups can be selected from Structure Panel</li><li>Pivot point support added for 3D Shapes (Polygon/Cube/Sphere/Cone/Torus/Cylinder)</li><li>Rules delays show correct values in the rules panel</li><li>UI updates for Capture Input, Share and Product card elements</li><li>Fixed element renaming from properties panel</li><li>Increased text box character limit to 5000 characters</li><li>Fixed Rules UI Logic map loading states</li><li>Popup element - Added correct restrictions for selecting files from File Manager</li><li>Fixed rules updates when elements are deleted from the scene</li></ul></li><li><p>Viewer </p><ul><li>Pivot point support added for 3D Shapes (Polygon/Cube/Sphere/Cone/Torus/Cylinder)</li><li>Quiz element shows at least 4 items without a scrollbar.</li><li>Quiz element - Fixed background</li><li>Quiz element - Correct scores shown when quiz failed</li><li>Media element - Added correct restrictions for selecting files from device storage</li><li>Zoom disabling fixed for Android/iOS devices</li><li>Unsupported Browser warning added for firefox</li></ul></li><li><p>Portal </p><ul><li>Docs links updated across the platform</li></ul></li></ul>]]></content:encoded>
+            <category>releases</category>
         </item>
         <item>
             <title><![CDATA[October 2021 Update (Teaxr v0.5.1379)]]></title>
             <link>https://www.gmetri.com/help/updates/2021/10/26/oct-update</link>
-            <guid>October 2021 Update (Teaxr v0.5.1379)</guid>
+            <guid>/2021/10/26/oct-update</guid>
             <pubDate>Tue, 26 Oct 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Major Features]]></description>
+            <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LQtj" id="-major-features">🚀 Major Features<a class="hash-link" href="#-major-features" title="Direct link to heading">​</a></h3><ul><li>Viewer <ul><li>VR mode supports Point to action</li><li>VR mode supports animations during scene transitions</li><li>VR mode supports scene offset rotations</li></ul></li></ul><h3 class="anchor anchorWithStickyNavbar_LQtj" id="-minor-improvements">⏫ Minor Improvements<a class="hash-link" href="#-minor-improvements" title="Direct link to heading">​</a></h3><ul><li>Editor<ul><li>Deprecated: Height from text elements</li><li>Deprecated: width/height/depth from cylinder</li><li>Improved updates from number/decimal properties</li></ul></li><li>Viewer <ul><li>Deprecated: Scene pitch correction. All scene pitch correction in scene gets converted into point to rules automatically. </li></ul></li></ul><h3 class="anchor anchorWithStickyNavbar_LQtj" id="-bug-fixes">🐛 Bug Fixes<a class="hash-link" href="#-bug-fixes" title="Direct link to heading">​</a></h3><ul><li>Editor<ul><li>Gracefully handling all resource failures to remove any unwanted crashes</li><li>Fixed errors while adding new text elements</li><li>Updates to experience can be viewed correctly in the preview/view links. Experience data/cache gets updated correctly. </li><li>Correct updates to deployment authentication</li></ul></li><li>Viewer <ul><li>Disallow rotation using mouse scroll when gyro lock is enabled in a scene</li><li>Fixed text input in comments to clear text on submit and prevent text clipping</li></ul></li><li>Portal <ul><li>Fixed new project creation flow.</li></ul></li></ul>]]></content:encoded>
+            <category>releases</category>
         </item>
         <item>
             <title><![CDATA[October 2021 Update (Teaxr v0.5.1362)]]></title>
             <link>https://www.gmetri.com/help/updates/2021/10/21/oct-update</link>
-            <guid>October 2021 Update (Teaxr v0.5.1362)</guid>
+            <guid>/2021/10/21/oct-update</guid>
             <pubDate>Thu, 21 Oct 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Major Features]]></description>
+            <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LQtj" id="-major-features">🚀 Major Features<a class="hash-link" href="#-major-features" title="Direct link to heading">​</a></h3><ul><li>Multi-user editing support for editor</li><li>Improved analytics views for deployments</li><li>UI Upgrade for editor</li></ul><h3 class="anchor anchorWithStickyNavbar_LQtj" id="-minor-improvements">⏫ Minor Improvements<a class="hash-link" href="#-minor-improvements" title="Direct link to heading">​</a></h3><ul><li>Editor: <ul><li>Improved copy and paste operations for scenes and elements </li><li>Updated dynamic event and action selection logic for rules when switching between elements</li><li>Updated correct steps for all properties using number inputs</li></ul></li></ul><h3 class="anchor anchorWithStickyNavbar_LQtj" id="-bug-fixes">🐛 Bug Fixes<a class="hash-link" href="#-bug-fixes" title="Direct link to heading">​</a></h3><ul><li>Portal:<ul><li>Advanced Analytics page access fixed for users with analytics roles</li><li>Geolocation and maps in analytics shows correct locations</li><li>Login fix for experiences using SCORM packages</li></ul></li><li>Viewer:<ul><li>Added a few missing emoji icons</li><li>Fixed page crashes when navigating quickly between scenes from menu</li></ul></li></ul>]]></content:encoded>
+            <category>releases</category>
         </item>
         <item>
             <title><![CDATA[October 2021 Update (Teaxr v0.5.1315)]]></title>
             <link>https://www.gmetri.com/help/updates/2021/10/14/oct-update</link>
-            <guid>October 2021 Update (Teaxr v0.5.1315)</guid>
+            <guid>/2021/10/14/oct-update</guid>
             <pubDate>Thu, 14 Oct 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Major Features]]></description>
+            <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LQtj" id="-major-features">🚀 Major Features<a class="hash-link" href="#-major-features" title="Direct link to heading">​</a></h3><ul><li>Speed improvements for view links for USA and surrounding regions</li><li>Copy and Paste functionality for scenes and elements using CTRL+C/CTRL+V keyboard shortcuts</li><li>New docs at <a href="https://www.gmetri.com/docs/" target="_blank" rel="noopener noreferrer">https://www.gmetri.com/docs/</a></li></ul><h3 class="anchor anchorWithStickyNavbar_LQtj" id="-minor-improvements">⏫ Minor Improvements<a class="hash-link" href="#-minor-improvements" title="Direct link to heading">​</a></h3><ul><li>Editor: User notifications when network gets disconnected while editing an experience</li></ul><h3 class="anchor anchorWithStickyNavbar_LQtj" id="-bug-fixes">🐛 Bug Fixes<a class="hash-link" href="#-bug-fixes" title="Direct link to heading">​</a></h3><p>Editor:</p><ul><li>Fixed project duplication for v5 projects</li><li><strong>has been clicked</strong> event added back to the list of events in rules page</li><li>Fixed issues with elements inside duplicated groups</li></ul><p>Viewer:</p><ul><li>Fixed viewer token forwarding issue</li></ul>]]></content:encoded>
+            <category>releases</category>
         </item>
         <item>
             <title><![CDATA[September 2021 Update (Teaxr v0.5.1224)]]></title>
             <link>https://www.gmetri.com/help/updates/2021/09/27/sep-update</link>
-            <guid>September 2021 Update (Teaxr v0.5.1224)</guid>
+            <guid>/2021/09/27/sep-update</guid>
             <pubDate>Mon, 27 Sep 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Major Features]]></description>
+            <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LQtj" id="-major-features">🚀 Major Features<a class="hash-link" href="#-major-features" title="Direct link to heading">​</a></h3><ul><li>Editor version 5 beta released and enabled for partners</li><li>Update Viewport controls for editor v5 includes Bounding Box, Orbit mode and Gizmo options</li><li>Dynamic loading for rules UI</li><li>Videos/Audio/PDF can be uploaded via Media Upload element</li></ul><h3 class="anchor anchorWithStickyNavbar_LQtj" id="-bug-fixes">🐛 Bug Fixes<a class="hash-link" href="#-bug-fixes" title="Direct link to heading">​</a></h3><ul><li>Hover action disables built-in bounce animation</li><li>Leaderboard and analytics fixes</li><li>Project duplication to a different workspace correctly copies all files</li><li>Updated preview link for experiences in portal listing page</li><li>Design fix for mobile devices for Popup and Embed HTML</li></ul>]]></content:encoded>
+            <category>releases</category>
         </item>
         <item>
             <title><![CDATA[August 2021 Update (Teaxr v0.5.876)]]></title>
             <link>https://www.gmetri.com/help/updates/2021/08/31/aug-update</link>
-            <guid>August 2021 Update (Teaxr v0.5.876)</guid>
+            <guid>/2021/08/31/aug-update</guid>
             <pubDate>Tue, 31 Aug 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Minor Improvements]]></description>
+            <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LQtj" id="-minor-improvements">⏫ Minor Improvements<a class="hash-link" href="#-minor-improvements" title="Direct link to heading">​</a></h3><ul><li>Project duplication is instantaneous</li></ul><h3 class="anchor anchorWithStickyNavbar_LQtj" id="-bug-fixes">🐛 Bug Fixes<a class="hash-link" href="#-bug-fixes" title="Direct link to heading">​</a></h3><ul><li>Fixed WebGL crashes due to video memory leaks</li><li>Org users with member access can now access viewer groups page</li><li>AR elements shows selected file name when</li><li>Fixed transitions when going from a gyro locked scene to a non gyro locked scene.</li><li>Instruction element now shows the full length of the video</li><li>Fixing sketchfab imports</li><li>Media upload element allows uploading videos</li></ul>]]></content:encoded>
+            <category>releases</category>
         </item>
         <item>
             <title><![CDATA[July 2021 Update V2 (Teaxr v0.5.761)]]></title>
             <link>https://www.gmetri.com/help/updates/2021/07/20/july-update-v2</link>
-            <guid>July 2021 Update V2 (Teaxr v0.5.761)</guid>
+            <guid>/2021/07/20/july-update-v2</guid>
             <pubDate>Tue, 20 Jul 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Major Features]]></description>
+            <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LQtj" id="-major-features">🚀 Major Features<a class="hash-link" href="#-major-features" title="Direct link to heading">​</a></h3><ul><li>New Volume and Tour mode controls for viewer links</li><li>0 downtime releases of services to production</li><li>Progressive loading of pano elements. Shows a low res image to start the scene and loads the high res pano in the background.</li></ul><h3 class="anchor anchorWithStickyNavbar_LQtj" id="-minor-improvements">⏫ Minor Improvements<a class="hash-link" href="#-minor-improvements" title="Direct link to heading">​</a></h3><ul><li>Tour mode speed reduced to avoid dizziness</li><li>Viewer analytics now captures and show full URLs (vs. just the path like before)</li><li>Added option for custom CNAME for viewer links</li><li>Popup element - Increased visibility on sprite slider</li><li>Global volume now applies in between scene changes</li><li>Org admins can change role of team members to analytics</li></ul><h3 class="anchor anchorWithStickyNavbar_LQtj" id="-bug-fixes">🐛 Bug Fixes<a class="hash-link" href="#-bug-fixes" title="Direct link to heading">​</a></h3><ul><li>Fixed End Experience rule</li><li>Default GMetri panos are not visible in experiences</li><li>Fixed leaderboard filters</li><li>Project search is now case insensitive</li><li>Fixed zoom controls visibility based on project properties</li><li>Fixed Product card and Popup heading issues</li><li>Fixed text element render when using templates with urls</li><li>QR Matcher now handles special characters (like in URLs) correctly</li></ul>]]></content:encoded>
+            <category>releases</category>
         </item>
         <item>
             <title><![CDATA[July 2021 Update (Teaxr v0.5.683)]]></title>
             <link>https://www.gmetri.com/help/updates/2021/07/02/july-update</link>
-            <guid>July 2021 Update (Teaxr v0.5.683)</guid>
+            <guid>/2021/07/02/july-update</guid>
             <pubDate>Fri, 02 Jul 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Major Features]]></description>
+            <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LQtj" id="-major-features">🚀 Major Features<a class="hash-link" href="#-major-features" title="Direct link to heading">​</a></h3><ul><li>V5 Viewer official release</li></ul><h3 class="anchor anchorWithStickyNavbar_LQtj" id="-minor-improvements">⏫ Minor Improvements<a class="hash-link" href="#-minor-improvements" title="Direct link to heading">​</a></h3><ul><li>Logout and offlining option removed from Viewer Preferences</li><li>Allow fullscreen and Allow VR are default checked in  Viewer Preferences</li><li>Preview section shows correct thumbnail on the Rightbar</li><li>Better user role management on the portal</li></ul><h3 class="anchor anchorWithStickyNavbar_LQtj" id="-bug-fixes">🐛 Bug Fixes<a class="hash-link" href="#-bug-fixes" title="Direct link to heading">​</a></h3><p>A whole lot of bug fixes in the V5 viewer:</p><ul><li>Fixed initial rotation on mobile devices with gyro</li><li>Fixed reset view on mobile devices</li><li>VR mode disabled in unsupported devices</li><li>Android edge is now supported without VR functionality</li><li>Fixed hover functionality on all 3D elements</li><li>Fixed timer pause and timer match events</li><li>Media upload and QR matcher are now mobile compatible</li><li>Smarter checks for rendering 3D elements</li></ul>]]></content:encoded>
+            <category>releases</category>
         </item>
         <item>
             <title><![CDATA[June 2021 Update (Teaxr v0.5.622)]]></title>
             <link>https://www.gmetri.com/help/updates/2021/06/31/june-update</link>
-            <guid>June 2021 Update (Teaxr v0.5.622)</guid>
+            <guid>/2021/06/31/june-update</guid>
             <pubDate>Thu, 01 Jul 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Major Features]]></description>
+            <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LQtj" id="-major-features">🚀 Major Features<a class="hash-link" href="#-major-features" title="Direct link to heading">​</a></h3><ul><li>Updated browser whitelisting for different OS and browsers</li><li>2 events are available as clickable actions: is_clicked (resettable) and has_been_clicked (not-resettable)</li><li>Actionbar notch now shows a contrasting color to the background</li><li>Full support for Macbook touchpad in V5 viewer</li></ul><h3 class="anchor anchorWithStickyNavbar_LQtj" id="-minor-improvements">⏫ Minor Improvements<a class="hash-link" href="#-minor-improvements" title="Direct link to heading">​</a></h3><ul><li>Ability to delete and update org logo from the settings page</li><li>UI fixes on V5 screens</li><li>Duplicate To dropdown in portal is now searchable. Search can be done on org slug or org name</li><li>Removed option to Import and select for File manager plugins (sketchfab/flickr/GMetri panos/Drew panos)</li><li>V5 deployment links can be accessed from publish section on the editor</li><li>Reset View button can be enabled/disabled from editor</li><li>UX changed on deployment slug renames when there are clashing deployments with same slug. User sees a toaster and the changes are reverted</li></ul><h3 class="anchor anchorWithStickyNavbar_LQtj" id="-bug-fixes">🐛 Bug Fixes<a class="hash-link" href="#-bug-fixes" title="Direct link to heading">​</a></h3><p>A whole lot of bug fixes in the V5 viewer:</p><ul><li>Hover events will now works correctly for 0 secs durations</li><li>All Viewer Screens (Leadgen, Language, VR instructions etc) work seamlessly on mobile devices</li><li>Actionbar variations on all devices (mobile/tablet/desktop) work as expected</li><li>Fixed crashing Popups with 3d Models and AR elements on iOS devices</li><li>Capture text no longer allows itself to be submitted with an empty string</li><li>Media Upload UI fixed</li><li>Fixed timer seek_to and on_end events</li><li>Fixed scrolling issue on viewer screens for V5 viewer</li><li>Fixed Custom list login page for V5 Viewer</li><li>Enforce landscape screen shows a better graphic</li><li>Fixed orbit controls clicks on mobile devices</li><li>Mouse dragging works during scene transitions</li><li>GMetri watermark is shown if whitelabel is disabled</li></ul><p>Also,</p><ul><li>Fixed team invite flow on portal</li><li>Automatically adding new scenes to menu if auto add new scene to menu property is checked on settings screen inside editor</li><li>Non-live deployments are blocked from V5 viewer</li><li>Fixed contact Drew page link</li></ul>]]></content:encoded>
+            <category>releases</category>
         </item>
         <item>
             <title><![CDATA[First Blog Post]]></title>
@@ -139,6 +175,10 @@
             <guid>first-blog-post</guid>
             <pubDate>Sun, 31 Jan 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Hi There!]]></description>
+            <content:encoded><![CDATA[<p>Hi There!</p><p>Use this space to know more about GMetri releases, and other technical (non-user facing) announcements.
+For feature based blogs, check out <a href="https://www.gmetri.com/justaboutreal/" target="_blank" rel="noopener noreferrer">https://www.gmetri.com/justaboutreal/</a> .</p>]]></content:encoded>
+            <category>hola</category>
+            <category>docusaurus</category>
         </item>
     </channel>
 </rss>
