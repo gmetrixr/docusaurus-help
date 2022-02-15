@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gmetri.com/help/updates</id>
-    <title>GMetri Documentation Blog</title>
+    <title>GMetri Help Blog</title>
     <updated>2022-02-11T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.gmetri.com/help/updates"/>
-    <subtitle>GMetri Documentation Blog</subtitle>
+    <subtitle>GMetri Help Blog</subtitle>
     <icon>https://www.gmetri.com/help/https://s.vrgmetri.com/gb-web/portal-docs/assets/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[February 2022 Update (Teaxr v0.5.1902)]]></title>
