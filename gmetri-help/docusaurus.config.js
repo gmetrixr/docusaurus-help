@@ -4,7 +4,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 // With JSDoc @type annotations, IDEs can provide config autocompletion
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 (module.exports = {
-  title: 'GMetri Documentation',
+  title: 'GMetri Help',
   tagline: 'Building no-code intelligent XR',
   //This is necessary to be able to host this page at https://www.gmetri.com/help
   //This should generally be without the /help part acc. to docusaurs docs. https://docusaurus.io/docs/next/docusaurus.config.js#url
