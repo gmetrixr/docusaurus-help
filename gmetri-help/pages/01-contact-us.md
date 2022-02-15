@@ -10,8 +10,8 @@ Ask your query [here](https://www.gmetri.com/contact).
 
 For support, mail us at techsupport@gmetri.com
 
-<Card heading={"Report Issues"} link={"https://feedback.gmetri.com/boards/bugs"} />
-<Card heading={"Request Features"} link={"https://feedback.gmetri.com/boards/feature-requests"} />
+<!-- <Card heading={"Report Issues"} link={"https://feedback.gmetri.com/boards/bugs"} />
+<Card heading={"Request Features"} link={"https://feedback.gmetri.com/boards/feature-requests"} /> -->
 
 ### For Sales Queries
 
