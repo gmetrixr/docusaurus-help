@@ -34,6 +34,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
           // editUrl: 'https://github.com/gmetrixr/help/edit/main/gmetri-help/pages/',
         }, 
         blog: {
+          blogTitle: 'GMetriXR Changelog',
+          blogDescription: 'Get the list of updates to the GMetriXR Platform here',
           // showReadingTime: true,
           // Please change this to your repo.
           editUrl: 'https://github.com/gmetrixr/help/edit/main/gmetri-help/updates/',
