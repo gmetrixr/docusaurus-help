@@ -28,10 +28,14 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         // blog: false,
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          path: 'pages',
-          routeBasePath: 'pages',
+          // Non docs-only mode, the default. In this case docusaurus looks for docs under the pages folder (now renamed to docs)
+          // path: 'pages',
+          // routeBasePath: 'pages',
+
+          // Going to docs only mode. https://docusaurus.io/docs/next/docs-introduction#docs-only-mode
+          routeBasePath: '/',
           // Please change this to your repo.
-          // editUrl: 'https://github.com/gmetrixr/help/edit/main/gmetri-help/pages/',
+          editUrl: 'https://github.com/gmetrixr/help/edit/main/gmetri-help/',
         }, 
         blog: {
           blogTitle: 'GMetriXR Changelog',

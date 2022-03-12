@@ -1,3 +1,6 @@
+---
+sidebar_position: 2 # float position is supported
+---
 import Card from "/src/components/Card"
 
 # Contact Us
