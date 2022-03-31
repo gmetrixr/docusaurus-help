@@ -26,7 +26,7 @@ GMetri is a combination of the letter "G" with "Metri" from the metric system. S
 
 ## Guidelines for Partner Products, Businesses and Websites powered by GMetri
 
-We are a startup building the future of the internet, so we appreciate any help we can get to increase our online visbilibilty 😊!
+We are a startup building the future of the internet, so we appreciate any help we can get in increasing our online presence 😊!
 
 * Your website should mention clearly that the product is powered by GMetri, by using the following logo in either a section of the website or the footer. 
 
