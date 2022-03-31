@@ -24,7 +24,7 @@ GMetri is a combination of the letter "G" with "Metri" from the metric system. S
 * [Black Text on Transparent background](https://s.vrgmetri.com/gb-web/common/logo/2022/GMetri_B_text.png)
 * [White Text on Transparent background](https://s.vrgmetri.com/gb-web/common/logo/2022/GMetri_W_text.png)
 
-## Guidelines for Partner Products and Websites built on GMetri
+## Guidelines for Partner Products, Businesses and Websites built on GMetri
 
 * The website should mention clearly that the product is powered by GMetri, by using the following logo in either a section of the website or the footer.
 
