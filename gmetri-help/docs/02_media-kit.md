@@ -8,7 +8,7 @@ title: "Media Kit"
 GMetri is a combination of the letter "G" with "Metri" from the metric system. So it's spelt G - Metri.
 
 * While writing the name, use **GMetri**. Don't use gmetri or Gmetri.
-* In any article, link the word [GMetri](https://www.gmetri.com) back to https://www.gmetri.com at least once. 
+* In any online article, hyperlink the word [GMetri](https://www.gmetri.com) back to https://www.gmetri.com at least once. 
 * Any usage of the Logo should link back to https://www.gmetri.com
 
 ### Logos (and all Variants)
@@ -26,10 +26,8 @@ GMetri is a combination of the letter "G" with "Metri" from the metric system. S
 
 ## Guidelines for Partner Products and Websites built on GMetri
 
-* The website should mentioned clearly that the product was powered by GMetri, by using the following logo:
+* The website should mention clearly that the product is powered by GMetri, by using the following logo in either a section of the website or the footer.
 
 [![Logo](https://s.vrgmetri.com/image/w_150,q_90/gb-web/common/logo/2022/GMetri_B_W.jpg)](https://www.gmetri.com)
 
 * The logo should link back to https://www.gmetri.com
-
-
