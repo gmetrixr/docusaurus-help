@@ -28,8 +28,9 @@ GMetri is a combination of the letter "G" with "Metri" from the metric system. S
 
 We are a startup building the future of the internet, so we appreciate any help we can get to increase our online visbilibilty 😊!
 
-* Your website should mention clearly that the product is powered by GMetri, by (but in no way limited to) using the following logo in either a section of the website or the footer. Any mentions other than the logo also are highly appreciated!
+* Your website should mention clearly that the product is powered by GMetri, by using the following logo in either a section of the website or the footer. 
 
 [![Logo](https://s.vrgmetri.com/image/w_150,q_90/gb-web/common/logo/2022/GMetri_B_W.jpg)](https://www.gmetri.com)
 
 * The logo should link back to https://www.gmetri.com
+* Any mentions other than the logo also are highly appreciated!
