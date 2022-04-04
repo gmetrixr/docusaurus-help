@@ -43,4 +43,4 @@ Checkout our latest updates in the [changelog](/help/updates), or browse through
 
 ### Get in touch with Sales/Support
 
-<Card heading={"Contact Us"} link={"/help/pages/contact-us"} />
+<Card heading={"Contact Us"} link={"/help/contact-us"} />
