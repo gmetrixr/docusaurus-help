@@ -23,11 +23,9 @@ Our mission is to make a collaborative XR platform where anyone can create and s
 
 ## Talk to Us! 😀
 
-We are generally active on our [Discord Server](https://discord.gg/vMnqsdP), or you can leave a note on our [forum](https://community.gmetri.com).
+We are generally active on our [Discord Server](https://discord.gg/vMnqsdP). You can use this to ask any support queries, or chat with us generally!
 
 <Card heading={"GMetri Discord"} link={"https://discord.gg/vMnqsdP"} /> 
-<br />
-<Card heading={"GMetri Forum"} link={"https://community.gmetri.com"} />
 <br />
 <br />
 
