@@ -39,7 +39,7 @@ If you spot any [issues](https://feedback.gmetri.com/boards/bugs) or have a [fea
 ## Follow our updates
 
 Checkout our latest updates in the [changelog](/help/updates), or browse through our XR Blog [JustAboutReal](https://www.gmetri.com/justaboutreal/).
-<Card heading={"Changelog"} link={"/help/updates"} /> <Card heading={"JustAboutReal Blog"} link={"https://www.gmetri.com/justaboutreal/"} />
+<Card heading={"What's New"} link={"/help/updates"} /> <Card heading={"JustAboutReal Blog"} link={"https://www.gmetri.com/justaboutreal/"} />
 <br /><br />
 
 ### Get in touch with Sales/Support
