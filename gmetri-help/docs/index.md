@@ -14,18 +14,20 @@ import Card from "/src/components/Card"
 
 Our mission is to make a collaborative XR platform where anyone can create and share their immersive presence.
 
-## Learn More
+## Talk to Us! 😀
+
+We are pretty active on our [Discord Server](https://discord.gg/vMnqsdP). You can use this to ask any support queries, get helpful links, report issues or just chat with us generally!
+
+<Card heading={"Join GMetri Discord"} link={"https://discord.gg/vMnqsdP"} /> 
+<br />
+
+---
+
+## Learn
 
 <Card heading={"Documentation"} link={"https://www.gmetri.com/docs/"} />
 <Card heading={"XR Academy"} link={"https://www.gmetri.com/xracademy/"} />
 
----
-
-## Talk to Us! 😀
-
-We are generally active on our [Discord Server](https://discord.gg/vMnqsdP). You can use this to ask any support queries, or chat with us generally!
-
-<Card heading={"GMetri Discord"} link={"https://discord.gg/vMnqsdP"} /> 
 <br />
 <br />
 
