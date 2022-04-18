@@ -16,9 +16,11 @@ Our mission is to make a collaborative XR platform where anyone can create and s
 
 ## Talk to Us! 😀
 
-We are pretty active on our [Discord Server](https://discord.gg/vMnqsdP). You can use this to ask any support queries, get helpful links, report issues or just chat with us generally!
+Join the [GMetriXR Metaverse Community](https://discord.gg/vMnqsdP). Ask any support queries, get helpful links, report issues or just chat with us generally!
 
-<Card heading={"Join GMetri Discord"} link={"https://discord.gg/vMnqsdP"} /> 
+[The Webinars](https://calendly.com/gmetri/webinar) are both AMA (Ask Me Anything) sessions and take you through the basics of GMetriXR.
+
+<Card heading={"Join GMetri Discord"} link={"https://discord.gg/vMnqsdP"} /> <Card heading={"Attend Weekly Webinar"} link={"https://calendly.com/gmetri/webinar"} /> 
 <br />
 
 ---
