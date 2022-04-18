@@ -20,7 +20,7 @@ Join the [GMetriXR Metaverse Community](https://discord.gg/vMnqsdP). Ask any sup
 
 [The Webinars](https://calendly.com/gmetri/webinar) are both AMA (Ask Me Anything) sessions and take you through the basics of GMetriXR.
 
-<Card heading={"Join GMetri Discord"} link={"https://discord.gg/vMnqsdP"} /> <Card heading={"Attend Weekly Webinar"} link={"https://calendly.com/gmetri/webinar"} /> 
+<Card heading={"Join GMetri Discord"} link={"https://discord.gg/vMnqsdP"} /> <Card heading={"Attend Free Webinar"} link={"https://calendly.com/gmetri/webinar"} /> 
 <br />
 
 ---
