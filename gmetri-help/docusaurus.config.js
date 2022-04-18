@@ -114,7 +114,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
               },
               {
                 label: 'Community',
-                href: 'https://community.gmetri.com'
+                href: 'https://g3d.in/discord'
               },
               {
                 label: 'Github',
