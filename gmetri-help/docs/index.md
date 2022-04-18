@@ -28,8 +28,6 @@ Join the [GMetriXR Metaverse Community](https://discord.gg/vMnqsdP). Ask any sup
 ## Learn
 
 <Card heading={"Documentation"} link={"https://www.gmetri.com/docs/"} />
-<Card heading={"XR Academy"} link={"https://www.gmetri.com/xracademy/"} />
-
 <br />
 <br />
 
