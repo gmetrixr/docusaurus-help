@@ -33,9 +33,9 @@ Join the [GMetriXR Metaverse Community](https://discord.gg/vMnqsdP). Ask any sup
 
 ## I Want More! (or maybe something isn't working)
 
-If you spot any [issues](https://feedback.gmetri.com/boards/bugs) or have a [feature request](https://feedback.gmetri.com/boards/feature-requests), we would love to hear about it!
-<Card heading={"Report Issues"} link={"https://feedback.gmetri.com/boards/bugs"} />
-<Card heading={"Request Features"} link={"https://feedback.gmetri.com/boards/feature-requests"} />
+If you spot any [issues](https://g3d.in/bugs) or have a [feature request](https://g3d.in/feedback), we would love to hear about it!
+<Card heading={"Report Issues"} link={"https://g3d.in/bugs"} />
+<Card heading={"Request Features"} link={"https://g3d.in/feedback"} />
 <br /><br />
 
 ## Follow our updates
