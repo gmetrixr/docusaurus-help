@@ -21,3 +21,7 @@ For support, mail us at techsupport@gmetri.com
 Mail us at sales@gmetri.com (OR) give us your requirements [here](https://www.gmetri.com/requirements).
 
 You can also call us at `+1 (929) 813 1445 [USA]` or `+91 70426 06116 [IN]`
+
+### Chat with Us
+
+Talk to us [on Discord here](https://g3d.in/discord).
